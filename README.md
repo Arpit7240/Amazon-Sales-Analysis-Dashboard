@@ -1,4 +1,4 @@
-# Amazon-Sales-Analysis-Dashboard
+# Amazon-Sales-Analysis-Dashboard Tableau
 The Amazon Sales Analysis Dashboard provides a comprehensive overview of the sales performance across different regions, sales channels, and product categories. The dashboard is designed to help stakeholders monitor key metrics such as total revenue, profit, average shipment days, and units sold. It enables data-driven decision-making by offering insights into regional performance, sales trends over time, and the impact of shipment delays on revenue.
 
 
